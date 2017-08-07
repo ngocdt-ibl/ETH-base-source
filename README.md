@@ -2,7 +2,7 @@
 
 ## Development
 
-*You can find original development docs from [here](https://github.com/infinityblockchainlabs/QuantaGame-Desktop/blob/master/README_ELECTRON.md)*
+*You can find original development docs from [here](https://github.com/ngocdam-ibl/ETH-base-source/blob/master/README_ELECTRON.md)*
 
 ### React + Redux coding rules
 1. Get data and process data must be done in Actions
